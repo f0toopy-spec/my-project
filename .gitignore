@@ -1,6 +1,1 @@
-"# Git ignore file" 
-"__pycache__/" 
-"*.pyc" 
-".idea/" 
-"node_modules/" 
-"*.log" 
+
