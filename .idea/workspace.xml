@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd74e671-1f80-4f14-b171-981a4ff6c2af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3lb/3lb10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3lb/3lb6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3lb/3lb7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3lb/3lb8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3lb/3lb9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4lb/4lb1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3lb/3lb4.py" beforeDir="false" afterPath="$PROJECT_DIR$/3lb/3lb4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3lb/3lb5.py" beforeDir="false" afterPath="$PROJECT_DIR$/3lb/3lb5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3lb5.py" beforeDir="false" afterPath="$PROJECT_DIR$/3lb5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3lb/3lb1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3lb/3lb1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4lb/4lb1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4lb/4lb1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,26 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.2pr.executor": "Run",
-    "Python.3lb1.executor": "Run",
-    "Python.3lb10.executor": "Run",
-    "Python.3lb2.executor": "Run",
-    "Python.3lb3.executor": "Run",
-    "Python.3lb4.executor": "Run",
-    "Python.3lb5.executor": "Run",
-    "Python.3lb6.executor": "Run",
-    "Python.3lb7.executor": "Run",
-    "Python.3lb8.executor": "Run",
-    "Python.3lb9.executor": "Run",
-    "Python.4lb1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2pr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3lb9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4lb1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
