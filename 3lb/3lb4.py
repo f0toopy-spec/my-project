@@ -14,6 +14,6 @@ class Countdown:
         return value
 
 
-# Пример использования
+
 for x in Countdown(5):
     print(x)
